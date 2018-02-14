@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/mehul230588/nodeAPI#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
